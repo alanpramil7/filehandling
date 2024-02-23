@@ -1,0 +1,15 @@
+Filename, Datetime, Source, Target, Status
+doc2_filename2.pdf,2/23/2024 1:45:29 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc2,Sucess
+doc1_filename2.pdf,2/23/2024 1:45:29 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc1,Sucess
+doc2_filename1.pdf,2/23/2024 1:45:29 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc2,Sucess
+doc1_filename1.pdf,2/23/2024 1:45:29 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc1,Sucess
+doc1_filename3.pdf,2/23/2024 1:45:41 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc1,Sucess
+doc3_filename1.pdf,2/23/2024 1:46:13 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc3,Sucess
+doc3_filename2.pdf,2/23/2024 1:48:05 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc3,Sucess
+doc1_filename1.pdf,2/23/2024 2:01:45 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc1,Failed :The file '/home/alan/Alan/amadis/FileHandling/target/doc1/doc1_filename1.pdf' already exists.
+doc1_filename1.pdf,2/23/2024 2:02:13 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc1,Failed :The file '/home/alan/Alan/amadis/FileHandling/target/doc1/doc1_filename1.pdf' already exists.
+doc4_filename1.pdf,2/23/2024 2:45:16 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc4,Sucess
+doc3_filename3.pdf,2/23/2024 2:45:16 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc3,Sucess
+doc4_filename2.pdf,2/23/2024 5:44:39 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc4,Sucess
+doc5_filename1.pdf,2/23/2024 5:44:39 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc5,Sucess
+doc5_filename2.pdf,2/23/2024 5:44:39 PM,/home/alan/Alan/amadis/FileHandling/source,/home/alan/Alan/amadis/FileHandling/target/doc5,Sucess
